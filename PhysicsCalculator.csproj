@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Description>Library of physics equations to do most used physics calculations.</Description>
+    <Copyright>2022</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Authors>Austėja Rušėnaitė</Authors>
+    <Company>Austėja Rušėnaitė</Company>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageTags>Physics, Calculator, Equations, Calculations</PackageTags>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/rusenaite/PhysicsCalculator</RepositoryUrl>
+    <RepositoryType />
+    <PackageIcon>icon_physicscalculator.jpg</PackageIcon>
+    <PackageIconUrl />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\Downloads\icon_physicscalculator.jpg">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
