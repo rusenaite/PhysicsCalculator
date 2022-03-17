@@ -1,4 +1,4 @@
-﻿namespace PhysicsCalculator.Formulas
+﻿namespace PhysicsCalculator
 {
     public class Kinematics
     {
