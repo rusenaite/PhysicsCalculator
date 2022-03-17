@@ -7,7 +7,7 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Authors>Austėja Rušėnaitė</Authors>
     <Company>Austėja Rušėnaitė</Company>
-    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageTags>Physics, Calculator, Equations, Calculations</PackageTags>
     <PackageProjectUrl></PackageProjectUrl>
     <RepositoryUrl>https://github.com/rusenaite/PhysicsCalculator</RepositoryUrl>

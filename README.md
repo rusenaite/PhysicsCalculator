@@ -2,6 +2,7 @@
 
 NuGet package for Physics calculation support of most(ly) used equations.
 
+
 ## Install
 
 Install via [NuGet](https://www.nuget.org/packages/PhysicsCalculator) package manager console:
@@ -10,6 +11,7 @@ PM> Install-Package PhysicsCalculator
 ```
 
 Or clone the repository & pull in the projects directly.
+
 
 ## About PhysicsCalculator
 
@@ -30,14 +32,18 @@ Supported physics equations (all return 8 bytes size floating-point `double`):
 Supported constants:
   - `SpeedOfLight` (in m/s)
 
-## Example usage
-
-`double velocity = PhysicsCalculator.Kinematics.AverageVelocity(50.55, 10);`
-`double lorentzFactor = PhysicsCalculator.SpecialRelativity.LorentzFactor(15.15);`
 
 #### Built with
 
 - C# & .NET5
+
+
+## Example usage
+
+`double velocity = PhysicsCalculator.Kinematics.AverageVelocity(50.55, 10);`
+
+`double lorentzFactor = PhysicsCalculator.SpecialRelativity.LorentzFactor(15.15);`
+
 
 ## License
 
